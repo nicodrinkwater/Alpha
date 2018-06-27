@@ -1,0 +1,103 @@
+
+Scoreboard.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+score
+  rotate: false
+  xy: 1, 285
+  size: 522, 130
+  orig: 522, 130
+  offset: 0, 0
+  index: -1
+pause
+  rotate: false
+  xy: 1, 133
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+pause1
+  rotate: false
+  xy: 525, 285
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+eight
+  rotate: false
+  xy: 1, 1
+  size: 90, 130
+  orig: 90, 130
+  offset: 0, 0
+  index: -1
+five
+  rotate: false
+  xy: 153, 153
+  size: 90, 130
+  orig: 90, 130
+  offset: 0, 0
+  index: -1
+four
+  rotate: false
+  xy: 657, 285
+  size: 90, 130
+  orig: 90, 130
+  offset: 0, 0
+  index: -1
+nine
+  rotate: false
+  xy: 245, 153
+  size: 90, 130
+  orig: 90, 130
+  offset: 0, 0
+  index: -1
+one
+  rotate: false
+  xy: 749, 285
+  size: 90, 130
+  orig: 90, 130
+  offset: 0, 0
+  index: -1
+pause2
+  rotate: false
+  xy: 337, 173
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+seven
+  rotate: false
+  xy: 841, 285
+  size: 90, 130
+  orig: 90, 130
+  offset: 0, 0
+  index: -1
+six
+  rotate: false
+  xy: 933, 285
+  size: 90, 130
+  orig: 90, 130
+  offset: 0, 0
+  index: -1
+three
+  rotate: false
+  xy: 449, 153
+  size: 90, 130
+  orig: 90, 130
+  offset: 0, 0
+  index: -1
+two
+  rotate: false
+  xy: 541, 153
+  size: 90, 130
+  orig: 90, 130
+  offset: 0, 0
+  index: -1
+zero
+  rotate: false
+  xy: 633, 153
+  size: 90, 130
+  orig: 90, 130
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,68 @@
+
+Menu.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+600Border
+  rotate: false
+  xy: 1, 225
+  size: 600, 200
+  orig: 600, 200
+  offset: 0, 0
+  index: -1
+borderCorner
+  rotate: false
+  xy: 1, 23
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 603, 323
+  size: 279, 102
+  orig: 279, 102
+  offset: 0, 0
+  index: -1
+square180Edge
+  rotate: false
+  xy: 203, 43
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+square180Inside
+  rotate: false
+  xy: 385, 43
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+borderSide
+  rotate: false
+  xy: 567, 43
+  size: 20, 180
+  orig: 20, 180
+  offset: 0, 0
+  index: -1
+borderTop
+  rotate: false
+  xy: 1, 1
+  size: 180, 20
+  orig: 180, 20
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 603, 311
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+whiteBox
+  rotate: false
+  xy: 884, 415
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,103 @@
+
+Splash.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+F
+  rotate: false
+  xy: 1, 275
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+O
+  rotate: false
+  xy: 1, 93
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+R
+  rotate: false
+  xy: 183, 275
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+square180Edge
+  rotate: false
+  xy: 183, 93
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+square180Inside
+  rotate: false
+  xy: 365, 275
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+U
+  rotate: false
+  xy: 365, 93
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+flashBarBottom
+  rotate: false
+  xy: 547, 275
+  size: 90, 180
+  orig: 90, 180
+  offset: 0, 0
+  index: -1
+flashBarLeft
+  rotate: false
+  xy: 1, 1
+  size: 180, 90
+  orig: 180, 90
+  offset: 0, 0
+  index: -1
+flashBarRight
+  rotate: false
+  xy: 639, 365
+  size: 180, 90
+  orig: 180, 90
+  offset: 0, 0
+  index: -1
+flashBarTop
+  rotate: false
+  xy: 547, 93
+  size: 90, 180
+  orig: 90, 180
+  offset: 0, 0
+  index: -1
+flashBL
+  rotate: false
+  xy: 183, 1
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+flashBR
+  rotate: false
+  xy: 639, 273
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+flashTL
+  rotate: false
+  xy: 821, 365
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+flashTR
+  rotate: false
+  xy: 275, 1
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1

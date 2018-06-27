@@ -1,0 +1,236 @@
+
+Alpha.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+exit
+  rotate: false
+  xy: 1, 803
+  size: 600, 200
+  orig: 600, 200
+  offset: 0, 0
+  index: -1
+resume
+  rotate: false
+  xy: 1, 601
+  size: 600, 200
+  orig: 600, 200
+  offset: 0, 0
+  index: -1
+borderCorner
+  rotate: false
+  xy: 603, 803
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Compass
+  rotate: false
+  xy: 1, 399
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+cornerBlack
+  rotate: false
+  xy: 603, 601
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 805, 823
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 1, 217
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+background3
+  rotate: false
+  xy: 203, 419
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+skull
+  rotate: false
+  xy: 805, 641
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+skull1
+  rotate: false
+  xy: 1, 35
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+sqIn
+  rotate: false
+  xy: 385, 419
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+sqOut
+  rotate: false
+  xy: 567, 419
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+flashBarBottom
+  rotate: false
+  xy: 749, 419
+  size: 90, 180
+  orig: 90, 180
+  offset: 0, 0
+  index: -1
+square180Edge
+  rotate: false
+  xy: 841, 459
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+flashBarLeft
+  rotate: false
+  xy: 841, 367
+  size: 180, 90
+  orig: 180, 90
+  offset: 0, 0
+  index: -1
+borSide
+  rotate: false
+  xy: 987, 823
+  size: 20, 180
+  orig: 20, 180
+  offset: 0, 0
+  index: -1
+borTop
+  rotate: false
+  xy: 1, 13
+  size: 180, 20
+  orig: 180, 20
+  offset: 0, 0
+  index: -1
+flashBarRight
+  rotate: false
+  xy: 203, 327
+  size: 180, 90
+  orig: 180, 90
+  offset: 0, 0
+  index: -1
+square180Inside
+  rotate: false
+  xy: 183, 145
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Arrow
+  rotate: false
+  xy: 183, 13
+  size: 150, 130
+  orig: 150, 130
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 385, 237
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+flashBarTop
+  rotate: false
+  xy: 567, 237
+  size: 90, 180
+  orig: 90, 180
+  offset: 0, 0
+  index: -1
+square
+  rotate: false
+  xy: 659, 317
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+flashBL
+  rotate: false
+  xy: 659, 225
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+flashBR
+  rotate: false
+  xy: 365, 145
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+flashTL
+  rotate: false
+  xy: 335, 53
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+flashTR
+  rotate: false
+  xy: 457, 145
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 805, 629
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+cornerBL
+  rotate: false
+  xy: 987, 811
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+cornerBR
+  rotate: false
+  xy: 1009, 993
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+cornerTL
+  rotate: false
+  xy: 1, 1
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+cornerTR
+  rotate: false
+  xy: 183, 387
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+whiteBox
+  rotate: false
+  xy: 761, 407
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
